@@ -25,7 +25,7 @@ This Weather App is a simple web application that allows users to check current 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/KwesitheDev/weather-app.git
    cd weather-app
    ```
 
